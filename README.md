@@ -2,9 +2,9 @@
 
 ### 前言 / Introduction
 
-本项目主要基于Spring框架来实现微信小程序的支付功能。
+本项目主要基于Spring框架来实现微信小程序的支付功能。详情请见: https://mikemikezhu.github.io/2019/02/18/wechat-pay.html
 
-This is a demo project based on Spring framework, which demonstrates how to implement WeChat pay feature.
+This is a demo project based on Spring framework, which demonstrates how to implement WeChat pay feature. For more details, please ready: https://mikemikezhu.github.io/2019/02/18/wechat-pay.html
 
 ### 用法 / Usage
 
